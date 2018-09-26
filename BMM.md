@@ -11,7 +11,7 @@ DriveNet (~/.drivenet/drivenet.conf):
     rpcpassword=drivechain
     server=1
 
-Sidechain (~/.sidechain/bitcoin.conf):
+Sidechain (~/.sidechain/sidechain.conf):
 
     rpcuser=drivenet
     rpcpassword=drivechain
