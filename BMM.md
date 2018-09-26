@@ -29,7 +29,7 @@ interval. For example, if the refresh interval is set to 1 second, set
 
     ./drivenet-qt --minersleep=1500
 
- ### 4. 
+ ### 4. Enable automated BMM (check the checkbox)
 
 Turn on automated BMM, and set the refresh interval to anything faster than
 what --minersleep has been set to.
