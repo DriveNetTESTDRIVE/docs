@@ -11,12 +11,17 @@ DriveNet (~/.drivenet/drivenet.conf):
     rpcpassword=drivechain
     server=1
 
-Sidechain (~/.sidechain/sidechain.conf):
+Sidechain One (~/.sidechain/sidechain.conf):
+
+    rpcuser=drivenet
+    rpcpassword=drivechain
+    
+Payment sidechain (~/.payment/payment.conf):
 
     rpcuser=drivenet
     rpcpassword=drivechain
 
-### 2. Start the sidechain.
+### 2. Start the sidechain(s).
 
     ./sidechain-qt --wtprimethreshold=1000
 
