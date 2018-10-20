@@ -39,14 +39,14 @@ Note that the address prefix is displayed as '4' and not a '1' for the mainchain
 
 ## Keypairs:
 ```
-USED: Payment sidechain
+USED: Sidechain One
 Address: 18TQ2gKhAETTLvybiU3xbjU1xbdbmSHV7a
 PubKey: 034413bd86dc8046a3ddd079b8a1a20da411e10a76004407246e06da038632885f
 scriptPubKey: 76a91451c6eb4891cbb94ca30518b5f8441ea078c849eb88ac
 KeyID: 51c6eb4891cbb94ca30518b5f8441ea078c849eb
 Private: L4nNEPEuYwNaKMj1RZVsAuXPq5xbhdio43dTRzAr5CZgQHrSpFU8
 ---------------------
-
+USED: Payment Sidechain
 Address: 1CKieqBp3k1NMQqJvzYWkdbwr49NFfYxwM
 PubKey: 025291348b7a861f6340bed25bfc66ea5919d086914f2965db3a3de4075fb37b0d
 scriptPubKey: 76a9147c33a3f6d9d5b873f96dba4b12d6aaf6be71fbd288ac
