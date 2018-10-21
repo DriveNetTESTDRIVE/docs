@@ -3,7 +3,7 @@
 ### 1. Setup configuration files for DriveNet and the sidechain you are mining. 
 
 Make the rpcuser and rpcpassword whatever you want, but they must be the same
-for DriveNet and the sidechain.
+for DriveNet and the sidechain(s).
 
 DriveNet (~/.drivenet/drivenet.conf):
 
@@ -23,7 +23,8 @@ Payment sidechain (~/.payment/payment.conf):
 
 ### 2. Start the sidechain(s).
 
-    ./sidechain-qt --wtprimethreshold=1000
+    ./sidechain-qt
+    ./payment-qt
 
 If you are going to use the automated BMM page, you must start DriveNet with the
 --minersleep option set. Set this value higher than the automated bmm refresh
