@@ -1,5 +1,5 @@
 ### A list of keypairs that can be used for future sidechains.
-I generated 256 so that there are at least enough for any future pegs of the mainchain. Please open a pull request to comment out a keypair if you use it for a drivechain.
+I generated 256 so that there are at least enough for any future pegs of the mainchain. Please open a pull request to add a "USED" comment when a sidechain makes use of a keypair.
 
 Note that the address prefix is displayed as '4' and not a '1' for the mainchain GUI. The human-readable address is only added to the comments of the ValidSidechain array (and you can change the 1 to 4 if you'd like).
 
